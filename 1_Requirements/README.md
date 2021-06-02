@@ -3,9 +3,11 @@ Requirements for this project can be formulated by analysing the drawbacks of th
 
 ## Feature identification
 - Encryption of plaintext (128-bits) into ciphertext (128-bits).
+
 ![AES Encryption](encryption.png)
 
 - Decryption of ciphertext (128-bits) to plaintext (128-bits).
+
 ![AES Decryption](decryption.png)
 
 - 256 Byte memory module to be used as Look-up Table.
