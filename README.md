@@ -18,7 +18,7 @@ In this repository, we have focused on understanding the underlying steps in the
 - [StackEdit](https://stackedit.io/) : Online markdown editor.
 
 ## Challenges faced
-- Implementation of GF(2) multiplication.
+- Implementation of GF(8) multiplication.
 - Implementation of encryption-decryption loopback .
 
 ## Resources and references
